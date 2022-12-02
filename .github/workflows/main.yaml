@@ -3,7 +3,7 @@ name: Update Website and S3 sync
 on:
   push:
     branches:
-    - main
+    - master
 
 jobs:
   deploy:
